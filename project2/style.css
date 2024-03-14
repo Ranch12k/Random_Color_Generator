@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 200px;
+    height: 400px;
+    background-color: blue;
+}
+input{
+    background-color: skyblue;
+    width: 40px;
+    height: 20px;
+}
